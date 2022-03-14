@@ -1,5 +1,5 @@
 {
-  "name": "baumrock/rockmigrations",
+  "name": "baumrock/rock-migrations",
   "type": "pw-module",
   "description": "Module to handle Migrations inside your Modules easily.",
   "keywords": [ "processwire", "migrations" ],
@@ -12,8 +12,5 @@
       "homepage": "https://www.baumrock.com",
       "role": "CEO"
     }
-  ],
-  "require": {
-    "hari/pw-module": "~1.0"
-  }
+  ]
 }
