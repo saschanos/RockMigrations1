@@ -1,6 +1,6 @@
 {
   "name": "baumrock/rock-migrations",
-  "type": "pw-module",
+  "type": "library",
   "description": "Module to handle Migrations inside your Modules easily.",
   "keywords": [ "processwire", "migrations" ],
   "homepage": "https://processwire.com/talk/topic/21212-rockmigrations-easy-migrations-from-devstaging-to-live-server/",
