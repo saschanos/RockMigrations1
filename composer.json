@@ -12,5 +12,10 @@
       "homepage": "https://www.baumrock.com",
       "role": "CEO"
     }
-  ]
+  ],
+  "autoload": {
+    "classmap": [
+      "RockMigrations1.module.php"
+    ]
+  }
 }
